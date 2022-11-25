@@ -1,0 +1,18 @@
+.tablestyle {
+    border-spacing: 0px; 
+    border: 1px solid black; 
+    width: 100%; 
+    height: 100%;
+}
+
+.tdstyle1 {
+    background-color: #a2b46f; 
+    width:50%; 
+    height:100%;
+}
+
+.tdstyle2 {
+    background-color: #f8b1b4; 
+    width:50%; 
+    height:100%;
+}

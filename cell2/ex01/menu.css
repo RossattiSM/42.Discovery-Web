@@ -1,0 +1,20 @@
+ul {
+    display: none;
+}
+
+input:checked ~ul {
+    display: block;
+}
+
+input {
+    display: none;
+}
+
+li a:hover {
+    background-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.burgerlabel {
+    font-size: 25px;
+}
