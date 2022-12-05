@@ -10,7 +10,7 @@
 </p>
 
 # Discovery Web Piscine
-This repository contains the projects I made during the Discovery Web Piscine in 42 Málaga, from ```Nov/22/2022``` to ```Nov/26/2022.```
+This repository contains the projects I made during the Discovery Web Piscine in 42 Málaga, from ```Nov/21/2022``` to ```Nov/25/2022.```
 
 ## About 42
 
