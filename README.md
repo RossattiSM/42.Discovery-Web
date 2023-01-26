@@ -46,14 +46,6 @@ The table below presents the Discovery Web Piscine's curriculum completed by me.
 | <a href="https://github.com/silvinarossatti/42Discovery-Web/tree/master/rush"> Rush </a> |  HTML & CSS   | 
 
 <hr>
-
-``` Thanks for visiting and reading my content. Let's connect! ```
-<p align="center"> 
-<a href="https://www.linkedin.com/in/silvinarossatti/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
-<a href="https://github.com/silvinarossatti"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
-</p>
-
-<hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 20px; height: 20px" /></a> &nbsp;
 <a href="https://github.com/RossattiSM"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="GitHub logo" style="width: 20px; height: 20px" /></a> &nbsp;
 <a href="https://open.spotify.com/user/21bih47uzlxunyyi4gbbvyvty"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Spotify_black.png?raw=true" alt="Spotify logo" style="width: 20px; height: 20px" /></a> &nbsp;
