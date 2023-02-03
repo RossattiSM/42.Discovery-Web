@@ -4,9 +4,9 @@
 
 <hr>
 <p align="center">
-<img src="https://img.shields.io/github/languages/count/silvinarossatti/42Discovery-web?style=for-the-badge" alt="langauge badge">
-<img src="https://img.shields.io/github/directory-file-count/silvinarossatti/42Discovery-web?style=for-the-badge" alt="files badge">
-<img src="https://img.shields.io/github/languages/code-size/silvinarossatti/42Discovery-Web?style=for-the-badge" alt="size badge">
+<img src="https://img.shields.io/github/languages/count/silvinarossatti/42.Discovery-web?style=for-the-badge" alt="langauge badge">
+<img src="https://img.shields.io/github/directory-file-count/silvinarossatti/42.Discovery-web?style=for-the-badge" alt="files badge">
+<img src="https://img.shields.io/github/languages/code-size/silvinarossatti/42.Discovery-Web?style=for-the-badge" alt="size badge">
 </p>
 
 # Discovery Web Piscine
@@ -40,10 +40,10 @@ The table below presents the Discovery Web Piscine's curriculum completed by me.
 
 | Subject  | Language |
 | :------: | :------: |
-| <a href="https://github.com/silvinarossatti/42Discovery-Web/tree/master/cell0"> Cellule 00 </a> |  Shell   |
-| <a href="https://github.com/silvinarossatti/42Discovery-Web/tree/master/cell1"> Cellule 01 </a> |  HTML   | 
-| <a href="https://github.com/silvinarossatti/42Discovery-Web/tree/master/cell2"> Cellule 02 </a> |  CSS   | 
-| <a href="https://github.com/silvinarossatti/42Discovery-Web/tree/master/rush"> Rush </a> |  HTML & CSS   | 
+| <a href="https://github.com/silvinarossatti/42.Discovery-Web/tree/master/cell0"> Cellule 00 </a> |  Shell   |
+| <a href="https://github.com/silvinarossatti/42.Discovery-Web/tree/master/cell1"> Cellule 01 </a> |  HTML   | 
+| <a href="https://github.com/silvinarossatti/42.Discovery-Web/tree/master/cell2"> Cellule 02 </a> |  CSS   | 
+| <a href="https://github.com/silvinarossatti/42.Discovery-Web/tree/master/rush"> Rush </a> |  HTML & CSS   | 
 
 <hr>
 <a href="https://www.linkedin.com/in/rossattism/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png?raw=true" alt="Linkedin Logo" style="width: 20px; height: 20px" /></a> &nbsp;
