@@ -4,9 +4,9 @@
 
 <hr>
 <p align="center">
-<img src="https://img.shields.io/github/languages/count/silvinarossatti/42.Discovery-web?style=for-the-badge" alt="langauge badge">
-<img src="https://img.shields.io/github/directory-file-count/silvinarossatti/42.Discovery-web?style=for-the-badge" alt="files badge">
-<img src="https://img.shields.io/github/languages/code-size/silvinarossatti/42.Discovery-Web?style=for-the-badge" alt="size badge">
+<img src="https://img.shields.io/github/languages/count/RossattiSM/42.Discovery-web?style=for-the-badge" alt="langauge badge">
+<img src="https://img.shields.io/github/directory-file-count/RossattiSM/42.Discovery-web?style=for-the-badge" alt="files badge">
+<img src="https://img.shields.io/github/languages/code-size/RossattiSM/42.Discovery-Web?style=for-the-badge" alt="size badge">
 </p>
 
 # Discovery Web Piscine
